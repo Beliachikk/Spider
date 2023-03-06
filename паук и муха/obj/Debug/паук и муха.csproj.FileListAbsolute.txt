@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Программы\паук и муха\паук и муха\bin\Debug\паук и муха.exe.config
+C:\Users\USER\Documents\Программы\паук и муха\паук и муха\bin\Debug\паук и муха.exe
+C:\Users\USER\Documents\Программы\паук и муха\паук и муха\bin\Debug\паук и муха.pdb
+C:\Users\USER\Documents\Программы\паук и муха\паук и муха\obj\Debug\паук и муха.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Программы\паук и муха\паук и муха\obj\Debug\паук и муха.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Программы\паук и муха\паук и муха\obj\Debug\паук и муха.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Программы\паук и муха\паук и муха\obj\Debug\паук и муха.exe
+C:\Users\USER\Documents\Программы\паук и муха\паук и муха\obj\Debug\паук и муха.pdb
